@@ -1,0 +1,105 @@
+/* Inject CSS for customizing background of dropdown/text-input/number-input */
+div[data-baseweb="select"] > div {
+    background-color: #FFFFFF !important;  /* Set your desired background */
+    border-radius: 5px;
+}
+input[type="text"] {
+    background-color: #FFFFFF !important;
+    border-radius: 5px;
+}
+
+/* Inject CSS for sidebar */
+section[data-testid="stSidebar"] {
+            width: 300px !important;
+}
+/* Make the main content expand when sidebar is collapsed */
+section[data-testid="stSidebar"][aria-expanded="false"] ~ div {
+    margin-left: 0px !important;
+}
+[data-testid="stSidebar"] {
+    background-color: #FFFFFF;
+}
+
+/* Inject CSS for border in plotly chart */
+.element-container:has(div[data-testid="stPlotlyChart"]) {
+    background-color: white;
+    padding: 1em;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.element-container div[data-testid="stPlotlyChart"] {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Inject custom CSS for tabs */
+/* Container for the tab labels */
+[data-testid="stTabs"] > div {
+    background-color: #f5f7fa;
+    border-radius: 12px;
+    padding: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Individual tab buttons */
+button[role="tab"] {
+    border-radius: 8px;
+    padding: 6px 12px;
+    margin: 4px;
+    font-weight: 500;
+    color: #333;
+    background-color: #e2e8f0;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+/* Active tab */
+button[aria-selected="true"] {
+    background-color: #ffffff !important;
+    color: #000000;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover effect */
+button[role="tab"]:hover {
+    background-color: #d9e2ec;
+}
+
+/* Custom CSS for button */
+div.stButton > button {
+    background-color: white; 
+    color: #E30A13;
+    border: 1px solid #E30A13;    
+    transition: background-color 0.3s ease;
+}
+
+div.stButton > button:hover {
+    background-color: #E30A13; 
+    color: white;
+}
+
+/* Inject CSS to color the full main area */
+/* Color the top toolbar area */
+[data-testid="stHeader"] {
+    background-color: #EFF2F6;
+}
+
+/* Optional: remove shadow/border line */
+[data-testid="stHeader"]::before {
+    box-shadow: none;
+}
+/* Make entire app background colored */
+html, body, [data-testid="stAppViewContainer"] {
+    background-color: #EFF2F6 !important;
+}
+
+/* Optional: Match block container for consistency */
+.block-container {
+    background-color: transparent;
+    padding-top: 3rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    overflow-y: hidden !important;
+    height: 100% !important;
+}

@@ -1,0 +1,58 @@
+Country,Tier 1,Tier 2,Tier 3,Historical - Split (%),Current - Split (%),Historical - Budget,Current - Budget
+Mexico,Pull-Non-Working,Ad Production,Digital Ad Production,0,0,0,0
+Mexico,Pull-Non-Working,Ad Production,Other Ad Production,0,0,0,0
+Mexico,Pull-Non-Working,Ad Production,TV Print Radio OOH Prod,0.003,0.003,"3,75,924","3,89,021"
+Mexico,Pull-Non-Working,Agency Fees,Creative Agency Fees,0,0,0,0
+Mexico,Pull-Non-Working,Agency Fees,In Store and POS Design/Development,0.0015,0.0015,"1,87,962","1,94,511"
+Mexico,Pull-Non-Working,Agency Fees,Media Agency Fees,0.007,0.006999,"8,77,156","9,07,587"
+Mexico,Pull-Non-Working,Agency Fees,Other Agency Fees,0,0,0,0
+Mexico,Pull-Non-Working,Agency Fees,Social Media/Influence Marketing,0,0,0,0
+Mexico,Pull-Non-Working,Innovation and Insight,Innovation,0,0,0,0
+Mexico,Pull-Non-Working,Innovation and Insight,Market Research,0,0,0,0
+Mexico,Pull-Non-Working,Innovation and Insight,Other Innovation and Insight,0,0,0,0
+Mexico,Pull-Non-Working,Insight,Advanced Analytics,0.008699,0.008699,"10,90,055","11,28,032"
+Mexico,Pull-Non-Working,Insight,Brand Building,0,0,0,0
+Mexico,Pull-Non-Working,Insight,Consumer Tracking,0.0057,0.005699,"7,14,256","7,39,011"
+Mexico,Pull-Non-Working,Insight,Customer / Retail and Insights and Analytics,0.0002,0.0002,"25,062","25,935"
+Mexico,Pull-Non-Working,Insight,Foundational Data / Systems,0,0,0,0
+Mexico,Pull-Non-Working,Insight,Innovation Insights,0,0,0,0
+Mexico,Pull-Non-Working,Insight,Strategic Insights,0.0029,0.0029,"3,63,393","3,76,054"
+Mexico,Pull-Non-Working,Other Non Working,All Other Non Working,0.023598,0.023598,"29,57,019","30,60,042"
+Mexico,Pull-Non-Working,Other Non Working,NW-Cross Charges,0,0,0,0
+Mexico,Pull-Non-Working,Other Non Working,NW-Excluded non-A&M Items,0,0,0,0
+Mexico,Pull-Non-Working,Other Non Working,NW-Fall In / Fall Out,0,0,0,0
+Mexico,Pull-Non-Working,Other Non Working,Out of Scope Countries ( D8 Gastos),0,0,0,0
+Mexico,Pull-Non-Working,Package Design,Other Package Design,0,0,0,0
+Mexico,Pull-Non-Working,Package Design,Package Design,0.0002,0.0002,"25,062","25,935"
+Mexico,Pull-Working,Consumer Promotions,Consumer Promotions Execution,0.370567,0.4,"4,64,35,030","5,18,69,515"
+Mexico,Pull-Working,Consumer Promotions,Coupons (Redemption),0,0,0,0
+Mexico,Pull-Working,Consumer Promotions,Other Consumer Promotions,0,0,0,0
+Mexico,Pull-Working,Consumer Promotions,Premiums,0.0135,0.013499,"16,91,659","17,50,466"
+Mexico,Pull-Working,In Store & POS Execution,In-Store and POS Execution,0.029,0.028997,"36,33,934","37,60,151"
+Mexico,Pull-Working,In Store & POS Execution,Other In-Store and POS Execution,0,0,0,0
+Mexico,Pull-Working,Media Placements,Digital Media,0.0078,0.007799,"9,77,403","10,11,326"
+Mexico,Pull-Working,Media Placements,Media Placements,0.0728,0.043378,"91,22,426","56,24,990"
+Mexico,Pull-Working,Media Placements,Other Media,0.0005,0.0005,"62,654","64,837"
+Mexico,Pull-Working,Other Working,All Other Working,0.0029,0.0029,"3,63,393","3,76,054"
+Mexico,Pull-Working,Other Working,W-Cross Charges,0.004236,0.004236,"5,30,805","5,49,298"
+Mexico,Pull-Working,Other Working,W-Excluded non-A&M Items,0,0,0,0
+Mexico,Pull-Working,Other Working,W-Fall In / Fall Out,0,0,0,0
+Mexico,Pull-Working,Sampling,Other Sampling,0,0,0,0
+Mexico,Pull-Working,Sampling,Product Samples,0.0008,0.0008,"1,00,246","1,03,739"
+Mexico,Pull-Working,Sampling,Sample Executing,0.0043,0.0043,"5,38,825","5,57,597"
+Mexico,Pull-Working,Sponsorships,Other Sponsorships,0,0,0,0
+Mexico,Pull-Working,Sponsorships,Sponsorships,0.0408,0.040796,"51,12,569","52,90,172"
+Mexico,STB - Others,Unilateral,Capital Equipment,0,0,0,0
+Mexico,STB - Others,Unilateral,CDAs,0.277388,0.293298,"3,47,58,950","3,80,33,062"
+Mexico,STB - Others,Unilateral,Other Unilateral,0,0,0,0
+Mexico,STB - Others,Unilateral,Price Support,0,0,0,0
+Mexico,STB - Push,Capability Building/Other,Capability Building,0.011601,0.011601,"14,53,699","15,04,346"
+Mexico,STB - Push,Capability Building/Other,Capability Building/Other-Other,0,0,0,0
+Mexico,STB - Push,Trade Equipment,On Premise Equipment,0.013301,0.013301,"16,66,722","17,24,791"
+Mexico,STB - Push,Trade Equipment,"Stands/ Racks, Other Trade Equipment",0.0018,0.0018,"2,25,554","2,33,413"
+Mexico,STB - Push,Trade Equipment,Trade Equipment-Other,0,0,0,0
+Mexico,STB - Push,Trade Programs,Distribution Incentives,0.078908,0.06,"98,87,808","77,80,427"
+Mexico,STB - Push,Trade Programs,Innovation Investments,0,0,0,0
+Mexico,STB - Push,Trade Programs,Other Trade Programs,0,0,0,0
+Mexico,STB - Push,Trade Programs,Sales Incentives,0,0,0,0
+Mexico,STB - Push,Trade Programs,Space Investments,0.017001,0.02,"21,30,362","25,93,476"
